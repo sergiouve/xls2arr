@@ -1,0 +1,11 @@
+{
+  "name": "xls2arr",
+  "version": "0.0.1",
+  "description": "CLI tool to convert xls files into arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Uve",
+  "license": "MIT"
+}
